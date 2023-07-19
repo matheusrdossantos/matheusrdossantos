@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matheusrdossantos - estudante , suporter tecnico n1
+- 👋 Hi, I’m @matheusrdossantos - Estudante (Analise e Desenvolvimento de Sistemas) , Suporter Tecnico N1
 - 👀 I’m interested in python,java script,html,css,desenvolvimento de software,cyber security
 - 🌱 I’m currently learning - Html,css,sql
 
